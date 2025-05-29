@@ -1,4 +1,4 @@
-import random
+#import random
 
 with open("words.txt") as f:
     word = f.read().splitlines()
